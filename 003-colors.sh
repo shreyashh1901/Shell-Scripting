@@ -14,4 +14,4 @@
 #Light Green	    92	      102
 
 
-echo -e "\e[32m this is green color \e[0m]]"
+echo -e "\e[32m this is green color \e[0m"
