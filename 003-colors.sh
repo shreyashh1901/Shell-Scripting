@@ -15,3 +15,8 @@
 
 
 echo -e "\e[32m this is green color \e[0m"
+echo -e "\e[33m this is green color \e[0m"
+echo -e "\e[34m this is green color \e[0m"
+echo -e "\e[35m this is green color \e[0m"
+echo -e "\e[36m this is green color \e[0m"
+echo -e "\e[37m this is green color \e[0m"
