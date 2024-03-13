@@ -9,7 +9,6 @@ echo "this is not an comment"
   echo "comment no 1"
   echo "comment no 2"
   echo "comment no 3"
-
 comment
 
 echo "this line is print out of the comment section"
