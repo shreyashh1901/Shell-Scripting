@@ -12,4 +12,5 @@ echo -e "My fav team is : \e[47;35m $CONTINENT \e[0m"
 
 
 echo $0 #Print the script name
-echo $# #print argument use in the script
+echo $# #print argument use in the 
+echo $? #print the exit code of previous command
