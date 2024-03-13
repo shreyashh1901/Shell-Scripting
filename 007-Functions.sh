@@ -18,3 +18,8 @@ echo "we are learning devops"
 echo "my name is shreyash"
 
 f
+
+SAMPLE(){
+    echo "Nice to learn DevOps"
+    f
+}
