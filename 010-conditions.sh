@@ -3,7 +3,7 @@
 Action=$1
 
  case $Action in
-    start)
+    Start)
     echo "Starting Service"
     ;;
     Stop)
