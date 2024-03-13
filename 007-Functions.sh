@@ -23,3 +23,4 @@ SAMPLE(){
     echo "Nice to learn DevOps"
     f
 }
+SAMPLE
