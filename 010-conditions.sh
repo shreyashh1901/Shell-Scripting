@@ -9,7 +9,7 @@ Action=$1
     Stop)
     echo "Stoping Service"
     ;;
-    Restar)
+    Restart)
     echo "Restarting the Service"
     ;;
  esac   
