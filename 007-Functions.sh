@@ -30,5 +30,6 @@ MYFUNC(){
     echo "print date : $(date +%F)"
     echo "print script name : $0"
     echo "show cpu utilisation $(uptime)"
+    echo "Show PC Hostname $(hostname)"
 }
 MYFUNC
