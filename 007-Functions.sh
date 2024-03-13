@@ -29,5 +29,6 @@ MYFUNC(){
     echo "word count : $(who|wc -l)"
     echo "print date : $(date +%F)"
     echo "print script name : $0"
+    echo "show cpu utilisation $(uptime)"
 }
 MYFUNC
