@@ -9,3 +9,7 @@ echo "My script name is : $0"
 echo -e "My fav team is : \e[45;37m $TEAM \e[0m"
 echo -e "My fav team is : \e[44;33m $CITY \e[0m"
 echo -e "My fav team is : \e[47;35m $CONTINENT \e[0m"
+
+
+echo $0 #Print the script name
+echo $# #print argument use in the script
