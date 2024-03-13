@@ -12,3 +12,4 @@ Action=$1
     Restar)
     echo "Restarting the Service"
     ;;
+ esac   
