@@ -24,3 +24,10 @@ SAMPLE(){
     f
 }
 SAMPLE
+
+MYFUNC(){
+    echo "word count : $(who|wc -l)"
+    echo "print date : $(date +%F)"
+    echo "print script name : $0"
+}
+MYFUNC
